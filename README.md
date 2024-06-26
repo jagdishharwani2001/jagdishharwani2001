@@ -1,4 +1,4 @@
-<image width="100%" src = "github-header-image-png"/>
+<img width = "100%" src = "https://github.com/jagdishharwani2001/jagdishharwani2001/blob/main/github-header-image.png"/>
 <h1 align="center">Hi 👋, I'm Jagdish Harwani</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 <img align = "right" width = "400" src = "https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif"/>
