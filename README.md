@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jagdish Harwani</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
-<img src = "![image](https://github.com/jagdishharwani2001/jagdishharwani2001/assets/164191475/af172257-dacb-46ce-a310-fdd2d4c9b91b)"/>
+<img align = "left" width = "400" src = "https://in.images.search.yahoo.com/yhs/search;_ylt=Awr1TTb9DHxmD2wN8DHnHgx.;_ylu=Y29sbwMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=animate+coding+gif&type=Y161_F159_197533_062920&hsimp=yhs-001&hspart=trp&ei=UTF-8&fr=yhs-trp-001#id=31&iurl=https%3A%2F%2Fmedia.tenor.com%2F-UygBh3nnfEAAAAC%2Fcoding.gif&action=click"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagdishharwani2001&label=Profile%20views&color=0e75b6&style=flat" alt="jagdishharwani2001" /> </p>
 
