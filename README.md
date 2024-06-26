@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jagdish Harwani</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
-<div class="tenor-gif-embed" data-postid="14794084" data-share-method="host" data-aspect-ratio="1.50235" data-width="100%"><a href="https://tenor.com/view/computer-nerds-geeky-coding-hack-gif-14794084">Computer Nerds GIF</a>from <a href="https://tenor.com/search/computer-gifs">Computer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src = "![image](https://github.com/jagdishharwani2001/jagdishharwani2001/assets/164191475/af172257-dacb-46ce-a310-fdd2d4c9b91b)"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagdishharwani2001&label=Profile%20views&color=0e75b6&style=flat" alt="jagdishharwani2001" /> </p>
 
 - 🌱 I’m currently learning **Next.js,AWS**
